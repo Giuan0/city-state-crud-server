@@ -1,0 +1,4 @@
+{
+  "port": 3000,
+  "databaseURL": "mongodb+srv://giuan0:senha123@cluster0.uwypy.mongodb.net/dev?retryWrites=true&w=majority"
+}

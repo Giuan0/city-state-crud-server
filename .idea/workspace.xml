@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f6d2de3-e4ad-4acc-861d-cfa1d45ed087" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jwc8Y3j40fJsB1zWaDRjvpZ78F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.3" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/zooxClient/zooxClient" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/error" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f6d2de3-e4ad-4acc-861d-cfa1d45ed087" name="Default Changelist" comment="" />
+      <created>1604718436204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604718436204</updated>
+      <workItem from="1604718437814" duration="28956000" />
+      <workItem from="1604815246959" duration="36739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="471" y="70" key="#JSON" timestamp="1604987022172">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="471" y="70" key="#JSON/0.0.1366.742@0.0.1366.742" timestamp="1604987022172" />
+    <state x="444" y="173" width="512" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604863678598">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="444" y="173" width="512" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.742@0.0.1366.742" timestamp="1604863678598" />
+    <state x="461" y="127" width="424" height="481" key="FileChooserDialogImpl" timestamp="1604865632606">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="461" y="127" width="424" height="481" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1604865632606" />
+    <state x="384" y="113" width="587" height="512" key="find.popup" timestamp="1604963722078">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="384" y="113" width="587" height="512" key="find.popup/0.0.1366.742@0.0.1366.742" timestamp="1604963722078" />
+    <state x="342" y="162" key="run.anything.popup" timestamp="1604988854900">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="342" y="162" key="run.anything.popup/0.0.1366.742@0.0.1366.742" timestamp="1604988854900" />
+    <state x="341" y="63" width="672" height="678" key="search.everywhere.popup" timestamp="1604873762105">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="341" y="63" width="672" height="678" key="search.everywhere.popup/0.0.1366.742@0.0.1366.742" timestamp="1604873762105" />
+  </component>
+</project>
